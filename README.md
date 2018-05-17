@@ -9,32 +9,10 @@ Ce projet consiste à modélisé un labyrinthe en fausse 3D basé sur la methode
 
 ```
 $> make
-$> ./RT file/file.rt
+$> ./Wolf3D
 ```
 
-## Output examples
+## Exemples imagés
 
-### Reflexion
-<img src="./img/reflexion1.png" width="800" height="600" alt="Reflexion 1">
-<img src="./img/reflexion2.png" width="800" height="600" alt="Reflexion 2">
-
-### Color perturbations
-<img src="./img/perturbations1.png" width="800" height="600" alt="Perturbations 1">
-<img src="./img/perturbations2.png" width="800" height="600" alt="Perturbations 2">
-
-### Textures
-<img src="./img/textures1.png" width="800" height="600" alt="Textures 1">
-<img src="./img/textures2.png" width="800" height="600" alt="Textures 2">
-
-### Torre
-<img src="./img/torus.png" width="800" height="600" alt="Torus">
-
-### Hyperboloid
-<img src="./img/hyperboloid.png" width="800" height="600" alt="Hyperboloid">
-
-### Cube
-<img src="./img/cube.png" width="800" height="600" alt="Cube">
-
-### Limit object
-<img src="./img/limit-cyl.png" width="800" height="600" alt="Limit cylinder">
-D
+<img src="./img/Wolf1.png" width="999" height="998" alt="Reflexion 1">
+<img src="./img/Wolf2.png" width="998" height="997" alt="Reflexion 1">
